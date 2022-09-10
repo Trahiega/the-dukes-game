@@ -5,7 +5,7 @@ aliases: []
 # Knight Commander
 
 #### Last Seen
-Winterfield, [[Session-7|Session 7]]
+Winterfield, [[Session-007|Session 7]]
 
 #### Appearance
 Young  

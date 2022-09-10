@@ -1,5 +1,6 @@
 ---
 tags:
+aliases: [Ozmir's Strange Dream]
 ---
 # Ozmir's Strange Dream
 

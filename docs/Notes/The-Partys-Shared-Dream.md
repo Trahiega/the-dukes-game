@@ -2,10 +2,10 @@
 tags: DMfiles
 aliases: [The  Party's Shared Dream]
 ---
-# The  Party's Shared Dream
+# The Party's Shared Dream
 Whoever is on watch will experience the dream over a few seconds
 
-You are awoken for your watch, you find a comfortable spot and stare off into the night, looking and listening for danger, after a while, all of a sudden your eye lids start to droop, your head lols to the side as for a moment you fall asleep, in that moment you experience a vivid dream before snapping awake.
+You are awoken for your watch, you find a comfortable spot and stare off into the night, looking and listening for danger, after a while, all of a sudden your eye lids start to droop, your head lolls to the side as for a moment you fall asleep, in that moment you experience a vivid dream before snapping awake.
 
 The dream is the same yet different to your previous dreams Oz, you feel the presence of each other in this shared dream, yet you are one being.
 
@@ -31,8 +31,12 @@ All of you look up except for [[Ozmir]], above you high in the sky for as far as
 
 Oz your vision remains fixed on the band of silver, the shadows slowly curling around it pulling it closer and closer to your grip, the knowledge that if you fail to grasp it then everything you know will fall, for a moment you see a ship sinking at sea, a captain going down with her ship.
 
-Then you hear a voice, soft 'It is too late, he knows.. he watches..i cannot...fight him... find.... my... sister'
+Then you hear a voice, soft 'It is too late, he knows.. he watches..I cannot...fight him... find.... my... sister'
 
 The voice begins to fade 'too late... '
 
 While you each have seen and heard different things within this dream, when pain lances through your head and you each awaken in a cold sweat, you have the memories from each others different perspective.
+
+## The first change to the dream
+- The crown now settles into our grasp and we hold it firmly
+- Ozmir feels the power coursing through the crown in his grasp, and then it disappears from his hands

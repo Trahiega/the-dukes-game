@@ -1,5 +1,4 @@
 ---
-tags: NPC 
 aliases: [NPCs]
 ---
 # NPCs
@@ -20,3 +19,7 @@ aliases: [NPCs]
 	- [[Vorian]]
 	- [[Randall]]
 - [[Havarra]]
+
+```dataview
+LIST FROM #NPC 
+```

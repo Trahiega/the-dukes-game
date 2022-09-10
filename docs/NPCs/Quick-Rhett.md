@@ -15,7 +15,7 @@ Halward discovered Rhett had the map as he was in Winterfield bragging about hav
 [[Vorian]] & [[Randall]] were guarding the map at Rhett's house in Copperhead
 
 #### Last Seen
-The party have never met Rhett, but [[Vorian]] informed us that Rhett was currently in [[Mayhearth]], in [[Session-4]].
+The party have never met Rhett, but [[Vorian]] informed us that Rhett was currently in [[Mayhearth]], in [[Session-004]].
 
 #### Appearance
 As described by [[Halward-Priest-of-Selune|Halward]]:

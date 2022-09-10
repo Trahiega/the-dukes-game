@@ -1,7 +1,28 @@
 # Quests & Questions
+## Next Steps
+- [ ] Return the Moonlit Crown to it's rightful place
+- [ ] Seek the next artefact from the Dream.
+	- [ ] Morbadir?
+- [ ] Seek more information about the evil books
+
+## Main Quest
+### [[The Dreams]]
+- Who is the figure we see through the eyes of?
+- What is the source of the dreams?
+
+
 ## Loose Ends
 #### Ozmir
-Why was Ozmir forced to leave his ship and crew?
+- [ ] Why was Ozmir forced to leave his ship and crew?
+- [ ] Why is Oz in shadow in Saniel's dream?
+- [ ] Is the ship and the captain in the dream Ozs?
+- [ ] Should Oz hold the moonlit crown or should we be keeping it from him?
+- [ ] Why was Oz the first to get the dream?
+
+#### Lady Aliyah
+In Session 7, Lady Aliyah did not question Shed, as she said Shed has the trust of her god Tyr. 
+Does this conflict with the information from Saniel stating that the gods have gone quiet?
+How was Lady Aliyah able to know that Tyr trusts Shed?
 
 ## Questions
 ### Thieves in the night
@@ -10,7 +31,7 @@ Why was Ozmir forced to leave his ship and crew?
 
 ### Sir Ferro's belongings
 #### The infernal book & the gemstones
-We recovered a magical chest from [[Bandits-Way|Bandit's Way]] in [[Session-2]], it contained a book written in infernal and a set of gemstones.  
+We recovered a magical chest from [[Bandits-Way|Bandit's Way]] in [[Session-002]], it contained a book written in infernal and a set of gemstones.  
 - What is the book?
 - How are the gemstones and the book connected?
 
@@ -25,13 +46,7 @@ When we stole the [[Map-to-the-Arcane-Forge|map to the arcane forge]] from Rhett
 
 ## Quests
 
-### The Dream
-In [[Session-4]] Oz tells the party about his [[Ozmirs-Strange-Dream|strange dream]].
 
-In [[Session-7|Session 7]] the party all experience a [[The-Partys-Shared-Dream|shared dream]], we also find out that Lady Aliyah & Halward have both been having [[Aliyah-and-halwards-dream|dreams]].
-
-- Ozmir was the first of the party to have the dream.
-	- Reason why?
 
 ### The Arcane Forge
 [[The-Arcane-Forge|Arcane Forge]]
@@ -40,5 +55,5 @@ In [[Session-7|Session 7]] the party all experience a [[The-Partys-Shared-Dream|
 
 ### Completed Quests
 - Retrieve the [[The-Arcane-Forge#Map to the Arcane Forge|map to the arcane forge]]
-	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each. [[Session-1|Session 1]]
-	- We retrieved the map from Copperhead and returned it. [[Session-7|Session 7]]
+	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each. [[Session-001|Session 1]]
+	- We retrieved the map from Copperhead and returned it. [[Session-007|Session 7]]

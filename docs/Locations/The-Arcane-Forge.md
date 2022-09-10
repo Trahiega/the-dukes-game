@@ -22,7 +22,7 @@ Arcane Forge may be the human name for a dwarven thing.
 
 
 ## Map to the Arcane Forge
-[[Halward-Priest-of-Selune|Halward]] tasked [[The-Party|the party]] with retrieving the map and returning it to him. He believes it to be in the hands of [[Quick-Rhett|Quick Rhett]], in Copperhead, who is forming a group to seek out the treasure.
+[[Halward-Priest-of-Selune|Halward]] tasked [[The Party|the party]] with retrieving the map and returning it to him. He believes it to be in the hands of [[Quick-Rhett|Quick Rhett]], in Copperhead, who is forming a group to seek out the treasure.
 
 We retrieved the map from Quick Rhett's house and returned it to Halward, whilst we were travelling Markus made a copy.
 

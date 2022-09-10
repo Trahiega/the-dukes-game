@@ -1,8 +1,8 @@
 ---
 tags: lore
-aliases: []
+aliases: [Lady Aliyah's and Halward's dreams]
 ---
-# Lady Aliyahs and Halwards dreams
+# Lady Aliyah's and Halward's dreams
 
 ## Lady Aliyah's Dream
 - Shed is walking a path beset with darkness

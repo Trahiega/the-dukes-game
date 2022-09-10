@@ -8,5 +8,5 @@ aliases: []
 
 > The champion with the crown can destroy the orc threat.
 
-\- Halward, [[Session-7#^cecb95]]
+\- Halward, [[Session-007#^cecb95]]
 
