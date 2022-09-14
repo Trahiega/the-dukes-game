@@ -33,6 +33,9 @@ The voice begins to fade 'too late... '
 [[Saniel#^d52852|Saniel's dream]]  
 
 ### Timeline
+##### Session 2
+###### Day 5
+We pick up the first infernal book.
 ##### [[Session-004|Session 4]]
 ###### Day 12, our second day in Copperhead 
 Ozmir tells the party that has had a [[Session-004#^367df6|strange dream]]. 
@@ -51,3 +54,9 @@ And again the next night, Oz reveals he started having the dream when we set off
 We meet Halward and Lady Aliyah in the temple in Winterfield, they tell us they have both been experiencing [[Aliyah-and-halwards-dream|dreams]].
 Lady Aliyah's started after meeting us on the road.
 Halward's may have started around the same time.
+
+##### Session 14
+We pick up the second infernal book
+
+##### Session 16
+We have the dream again after returning to Tyrs Hollow

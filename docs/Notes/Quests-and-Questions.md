@@ -1,14 +1,20 @@
 # Quests & Questions
 ## Next Steps
 - [ ] Return the Moonlit Crown to it's rightful place
+	- [ ] According to the prophecy, The champion must take the crown to the resting place of the previous champion. On the mountain, above Hor Faldur, a Dwarven hold to the west of Krahan's borders.
 - [ ] Seek the next artefact from the Dream.
 	- [ ] Morbadir?
 - [ ] Seek more information about the evil books
 
 ## Main Quest
-### [[The Dreams]]
+### The Dreams
+See: [[The Dreams]]  
 - Who is the figure we see through the eyes of?
 - What is the source of the dreams?
+
+### The Infernal Books
+See: [[The Infernal Books]]  
+We have collected two identical books written in infernal.
 
 
 ## Loose Ends
