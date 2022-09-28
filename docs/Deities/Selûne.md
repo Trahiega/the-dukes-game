@@ -7,7 +7,7 @@ Sister is [[Shar]], the goddess of night.
 
 Known ally of the goddess [[Eldath]].
 ### Lore from [[Marphi]] in [[Session-8|Session 8]].
-'It is said that Selune and Shar were one, birthed from the same Primordial essence. The goddesses were beautiful, identical but polar opposites, raven-haired and silver-haired, one representing the dark, the other the light. Yet they were so close they saw themselves as one being, known later as the Two-Faced Goddess or the Sisters-Who-Were-One. They complemented each other and brought order out of the chaos.' 
+'It is said that Selûne and Shar were one, birthed from the same Primordial essence. The goddesses were beautiful, identical but polar opposites, raven-haired and silver-haired, one representing the dark, the other the light. Yet they were so close they saw themselves as one being, known later as the Two-Faced Goddess or the Sisters-Who-Were-One. They complemented each other and brought order out of the chaos.' 
 
 'Together, they created from the cosmic ether and the other heavenly bodies and infused these worlds with life. In the process, they formed the goddess [[Chauntea]], whom they worked with to bless the worlds with life.'
 

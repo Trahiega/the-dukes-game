@@ -26,5 +26,6 @@
 [[Session-012]]  
 [[Session-013]]  
 [[Session-014]]  
-[[Session-015|Session 15]]
-[[Session-016|Session 16 - Trolls on the road, Back to Tyr's Hollow]]
+[[Session-015|Session 15]]  
+[[Session-016|Session 16 - Trolls on the road, Back to Tyr's Hollow]]  
+[[Session-017|Session 17 - The Duke's Grand Entrance]]

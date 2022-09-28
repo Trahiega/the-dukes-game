@@ -8,7 +8,7 @@ tags: #session-notes
 aliases: [Session 16]
 ---
 # Session 16 - Trolls on the road, Back to Tyr's Hollow
-Date of session: 2022-08-31
+Date of session: 2022-08-31  
 In-game day count: Day   
 
 ## Session Summary

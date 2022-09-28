@@ -21,7 +21,7 @@ Note: The assassins had tattoos of [[The-Crimson-Grin|The Crimson Grin]].
 
 ##### At the Winterfield Tavern
 We slept at the inn with no dreams, no visions
-Looking around at breakfast we note a bard in the tavern (with a lute), also a [[League Gnome|gnome]].
+Looking around at breakfast we note a [[Bard at Winterfield Tavern.png|bard in the tavern]] (with a lute), also a [[League Gnome|gnome]].
 
 Skorris mentions [[Tyr's Hollow]]
 - There is a dwarf there he should speak to, knows his way underground, to [[Mor-Badir|Mor Badir]]
