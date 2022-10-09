@@ -6,7 +6,7 @@ aliases: [Lady Aliyah]
 
 A half-elven [[Paladins-of-Tyr|Paladin of Tyr]], and an inquisitor.
 
-Her mother lives in [[Mayhearth]] and is a woman of means. [^1] ^cf5283
+Her mother, [[Countess Zilyana Thenan]] is an elf of some means[^1] ^cf5283
 
 [^1]: See: [[Session-007#^fa76c5]]
 

@@ -18,5 +18,5 @@ Known ally of the goddess [[Eldath]].
 
 ## Known Worshippers
 [[Shedatha]]  
-[[Halward-Priest-of-Selune|Halward]]  
+[[Halword-Priest-of-Selune|Halward]]  
 [[Marphi]]  

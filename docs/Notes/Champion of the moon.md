@@ -4,7 +4,7 @@ aliases: []
 ---
 # Champion of the Moon
 
-[[Halward-Priest-of-Selune|Halward]] thinks that [[Shedatha]] may be the champion of the moon.
+[[Halword-Priest-of-Selune|Halward]] thinks that [[Shedatha]] may be the champion of the moon.
 
 > The champion with the crown can destroy the orc threat.
 

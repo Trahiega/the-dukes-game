@@ -61,5 +61,5 @@ When we stole the [[Map-to-the-Arcane-Forge|map to the arcane forge]] from Rhett
 
 ### Completed Quests
 - Retrieve the [[The-Arcane-Forge#Map to the Arcane Forge|map to the arcane forge]]
-	- Quest from [[Halward-Priest-of-Selune|Halward]], Reward: 100g each. [[Session-001|Session 1]]
+	- Quest from [[Halword-Priest-of-Selune|Halward]], Reward: 100g each. [[Session-001|Session 1]]
 	- We retrieved the map from Copperhead and returned it. [[Session-007|Session 7]]

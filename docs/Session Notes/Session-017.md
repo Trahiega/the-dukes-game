@@ -15,15 +15,15 @@ We entered the Temple of Selûne and caught up with Halward & Marphi, Marphi has
 
 Later that day, when the moon had risen, we joined Halward & Marphi at the temple to enact the ritual. As Shed handed over the Moonlit Crown a shadowy figure appeared and took it form her.
 
-The Duke, he calls himself, told us many things, though how much is true is hard to say. Shar revealed herself to us, she has been trapped by him. Marphi has been corrupted by the Duke and she takes Halwards life, we fight against her transformed form of Shadow that the Duke had brought forth.
+The Duke, he calls himself, told us many things, though how much is true is hard to say. Shar revealed herself to us, she has been trapped by him. Marphi has been corrupted by the Duke and she takes Halward's life, we fight against her transformed form of Shadow that the Duke had brought forth.
 
 When the battle seems near it's end the Duke intervenes, holding us all in place as he did when he took the crown. He offers Ozmir a deal, a theft for the life of his friend & her ship.
 Duke, Marphi & Ozmir leave through the Duke's portal.
 
 ## Log
-Misc note - Saniel is 6ft 1in
+Misc. note - Saniel is 6ft 1in
 
-- At the Temple of Selune near Tyr's Hollow
+- At the Temple of Selûne near Tyr's Hollow
 - We head upstairs with Halward & Marphi
 - Sit round a a small table, not at the large table nearby which is fenced off
 - Marphi has found something about the ritual for the crown
@@ -32,7 +32,7 @@ Misc note - Saniel is 6ft 1in
 	- We will do the test in the temple this night when the moon is out.
 
 - On communication from the gods
-	- Last recorded instance of communion with Selune was over 300 years ago
+	- Last recorded instance of communion with Selûne was over 300 years ago
 	- Lady Aliyah believes her vision is from Tyr after years of silence
 
 - News from elsewhere
@@ -42,23 +42,23 @@ Misc note - Saniel is 6ft 1in
 
 - Halward has a scroll to contact Lady Aliyah
 - Halward & Marphi show interest in the spear I am carrying
-	- Spear of the Crescent Guard
-	- An ancient group dedicated to guarding Selunes followers
+	- Spear of the [[Crescent Guard]]
+	- An ancient group dedicated to guarding Selûne's followers
 	- Recently reformed, the group is mostly Scholars
 	- They are in Thate (far to the east)
 - No thoughts on the significance of purple & silver, it could relate to a number of gods/groups
 - Is Shar evil?
 	- Is Shar the source of the dreams?
 
-- misc note - The whole pantheon of gods exist in this world
+- misc. note - The whole pantheon of gods exist in this world
 
 - The gods are always shifting in their alliances
 - Shar created the shadow realm
 	- The nearest temple of Shar to us is in or near Mayhearth
-- Maybe Shar is asking us to find Selune or the other way around?
+- Maybe Shar is asking us to find Selûne or the other way around?
 - Who is the "he" mentioned in the dream?
 
-- misc note - Eachann's god is Oghma
+- misc. note - Eachann's god is [[Oghma]]
 
 - The man blind with one hand in Lady Aliyahs dream represents Tyr
 
@@ -76,8 +76,8 @@ Misc note - Saniel is 6ft 1in
 		- tent
 		- 7 days of rations
 		- cart or wagon
-		- potions of healing (from the Temple of Selune)
-		- Alchemists supplies cost 50g (dont have proficiency in the tool)
+		- potions of healing (from the Temple of Selûne)
+		- Alchemists supplies cost 50g (don't have proficiency in the tool)
 		- feed for the mule/horse we do still have.
 - Jurgen has gone to join the war
 

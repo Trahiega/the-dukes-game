@@ -9,6 +9,8 @@ A Half-Orc Monk/Barbarian.
 
 Is teaching [[Eachann]] to speak Orcish.
 
+She wears a necklace showing her worship of Selune
+
 ![[art-Shedatha.jpg|250]]
 
 

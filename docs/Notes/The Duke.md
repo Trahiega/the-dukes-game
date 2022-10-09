@@ -7,4 +7,4 @@ aliases: []
 
 
 #### Appearance
-
+![[The Duke 2.png]]![[The Duke 1.png]]

@@ -12,8 +12,8 @@ Date of session: 2022-04-13
 In-game day count: Day 18 to Day 22   
 
 ## Session Summary
-We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The-Partys-Shared-Dream|a shared dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halward-Priest-of-Selune|Halward]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived.  
-[[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The-Partys-Shared-Dream|the shared dream]] we have been having as a group, [[The-Arcane-Forge|the Arcane Forge]], Halwards prophecy, and Halwards and Lady Aliyah's dreams.  
+We travelled back into Winterfield with the knights & the Royal Messenger, and started to all have [[The-Partys-Shared-Dream|a shared dream]] each night. Upon arriving at Winterfield we headed to the Temple to see [[Halword-Priest-of-Selune|Halword]], he was expecting us and told us [[Lady-Aliyah|Lady Aliyah]] wanted to know when we arrived.  
+[[Lady-Aliyah|Lady Aliyah]] tested the trustworthiness of the party, apart from Shed (who has the trust of her god, [[Tyr]]), and we talked about [[The-Partys-Shared-Dream|the shared dream]] we have been having as a group, [[The-Arcane-Forge|the Arcane Forge]], Halwords prophecy, and Halwords and Lady Aliyah's dreams.  
 We headed to the tavern afterwards to rest for the night and to consider our next move.
 
 ## Log
@@ -49,7 +49,7 @@ We just fought the orcs and agreed to travel with the knights at the behest of t
 The party move back to their own camp and talk about the [[Coded Letter for Quick Rhett|coded letter]] picked up from Rhetts house, talking about his debt to something called [[The-Crimson-Grin|the grin]].
 
 - No-one in the party has heard of them.
-- ~~Need to ask [[Halward-Priest-of-Selune|Halward]] how he found out how [[Quick-Rhett|Rhett]] had the map~~
+- ~~Need to ask [[Halword-Priest-of-Selune|Halword]] how he found out how [[Quick-Rhett|Rhett]] had the map~~
 	- Rhett was in Winterfield bragging
 
 ###### We all have the dream for the first time.
@@ -108,19 +108,19 @@ We go back to sleep, with no more dreams.
 	- Dave the Keeper
 
 ###### We head to the Temple of Selune.
-- [[Halward-Priest-of-Selune|Halward]] goes a little pale upon seeing us
+- [[Halword-Priest-of-Selune|Halword]] goes a little pale upon seeing us
 	- There have been developments since we left
-	- [[Lady-Aliyah|Lady Aliyah]] is in Winterfield and has asked [[Halward-Priest-of-Selune|Halward]] to let her know as soon as we get back to town.
+	- [[Lady-Aliyah|Lady Aliyah]] is in Winterfield and has asked [[Halword-Priest-of-Selune|Halword]] to let her know as soon as we get back to town.
 	- Oz mentions the dream
-		- "Odd occurence" - [[Halward-Priest-of-Selune|Halward]]
-- [[Halward-Priest-of-Selune|Halward]] has an assistant, a tiefling named [[Marphi]]
+		- "Odd occurence" - [[Halword-Priest-of-Selune|Halword]]
+- [[Halword-Priest-of-Selune|Halword]] has an assistant, a tiefling named [[Marphi]]
 	- He asks her to fetch [[Lady-Aliyah|Lady Aliyah]]
 	- She arrived in Winterfield a few days after we left, she has also experienced a dream.
-- Asked Halward about how he knew [[Quick-Rhett|Rhett]] had the map
+- Asked Halword about how he knew [[Quick-Rhett|Rhett]] had the map
 	- [[Quick-Rhett|Rhett]] was in town bragging about the map over winter, he somehow managed to make it back to Copperhead despite the harsh winter weather.
-	- Halward says he seemed a good lad, if a bragger
+	- Halword says he seemed a good lad, if a bragger
 		- [[Quick-Rhett|Rhett]] wants to be a treasure hunter
-- Halward has been assembling a prophecy.
+- Halword has been assembling a prophecy.
 	- Offers to show us his notes
 - We receive payment for retrieving the map
 	- +100g each
@@ -148,15 +148,15 @@ Lady Aliyah relaxes after asking her questions of each of the party
 	- People are missing or even dead
 
 Oz asks what the dream has to do with anything?  
-Halward & Aliyah have both had dreams about Shedatha  
-Shed explains the dream the party has had to Halward and Lady A
+Halword & Aliyah have both had dreams about Shedatha  
+Shed explains the dream the party has had to Halword and Lady A
 
 Aliyah
 
 - She does not know what god the dreams could have come from
 - She thought visions were fairytales until she had one
 
-We ask about [[Aliyah-and-halwards-dream|the dreams Lady Aliyah and Halward]] have had  
+We ask about [[Aliyah-and-Halwords-dream|the dreams Lady Aliyah and Halword]] have had  
 Lady Aliyah's dream
 
 - Shed is walking a path beset with darkness
@@ -164,7 +164,7 @@ Lady Aliyah's dream
 	- He says that Shedatha must not fall into darkness
 	- then he sacrifices himself to save Shed
 
-Halward had a similar dream
+Halword had a similar dream
 
 - Shed was walking a twisting path with many branches, many in darkness.
 - A woman spoke to him
@@ -177,19 +177,19 @@ Halward had a similar dream
 - 
 Suggests that we may want to travel with her to Mayhearth
 
-Halward
+Halword
 
 - Shedatha may be the [[Champion of the moon]]
 - The champion with the crown can destroy the orc threat ^cecb95
 
-The warning about Mayhearth previously from Halward was just that if [[Quick-Rhett|Rhett]] is there, it may make our job to get the map more difficult.
+The warning about Mayhearth previously from Halword was just that if [[Quick-Rhett|Rhett]] is there, it may make our job to get the map more difficult.
 
 - Prince Jasper is the heir to the throne ^2e28a4
 - The woman in the cage is linked to [[The-Crimson-Grin|The Crimson Grin]]
 	- named [[Kari]]
 	- She is on the run from [[The-Crimson-Grin|the grin]]
 	- She bears the tattoos, believes [[The-Crimson-Grin|the grin]] are taking over as a criminal enterprise
-	- Lady Aliyah has offered her protection for information, she will be staying in WF with Halward
+	- Lady Aliyah has offered her protection for information, she will be staying in WF with Halword
 	- [[The-Crimson-Grin|The grin]] is linked to the murder of an investigator/inquisitor?
 - LAs mother is in Mayhearth and could provide us with resources ^fa76c5
 - LA only wishes to aid us
@@ -203,7 +203,7 @@ The warning about Mayhearth previously from Halward was just that if [[Quick-Rhe
 - told her about ferro and Marrik
 - sword is a +1 sword
 
-Halward took Shed to the back of the temple and gifted her with the [[Gloves of the two faced goddess]]
+Halword took Shed to the back of the temple and gifted her with the [[Gloves of the two faced goddess]]
 
 We head to the tavern to rest for the night and think about what we are doing next
 
@@ -216,7 +216,7 @@ We head to the tavern to rest for the night and think about what we are doing ne
 -  Need to ask Ozmir if his dream was the same all of the time and he omitted information when he told us about it
 
 
-- Halward has been assembling a prophecy.
+- Halword has been assembling a prophecy.
 	- Offers to show us his notes
 - What is the champion of the moon?
 

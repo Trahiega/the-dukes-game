@@ -11,7 +11,7 @@ aliases: [NPCs]
 
 
 ## Winterfield
-- [[Halward-Priest-of-Selune|Halward, Priest of Selune]]
+- [[Halword-Priest-of-Selune|Halward, Priest of Selune]]
 - [[Marphi]]
 
 ## Copperhead

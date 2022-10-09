@@ -1,0 +1,1 @@
+Darkness revealed itself, a devil calls himself the duke, the crimson grin are after you, dukes agents, halward dead, marphi corrupted, destroy any infernal books

@@ -12,7 +12,7 @@ Date of session: 2022-05-11
 In-game day count: Day 
 
 ## Session Summary
-After the party has a brush with assassin's, we rested at the tavern for the night. We heading back to the temple to get some more information from [[Lady-Aliyah]] & [[Halward-Priest-of-Selune|Halward]], did some shopping for supplies and sold up our goods. Then stopping off to meet with the captured orc for a brief conversation, we left Winterfield and headed to Tyr's Hollow.
+After the party has a brush with assassin's, we rested at the tavern for the night. We heading back to the temple to get some more information from [[Lady-Aliyah]] & [[Halword-Priest-of-Selune|Halward]], did some shopping for supplies and sold up our goods. Then stopping off to meet with the captured orc for a brief conversation, we left Winterfield and headed to Tyr's Hollow.
 
 At Tyr's Hollow we met up with the dwarf [[Hamdec Coalguard]] who agreed to aid in guiding us through the underground passes around [[Mor-Badir|Mor Badir]]. We set out from Tyr's Hollow and headed south, into the mountain pass north of the burning lake, intending to follow the [[Map-to-the-Arcane-Forge]] and see what we uncover.
 
@@ -39,7 +39,7 @@ We plan to head and see the dwarf before heading to [[The Burning Lake]], follow
 The great ink haggling (Eachann and Markus)
 
 ##### Meeting at the Temple
-We head to the temple to meet [[Lady-Aliyah|Lady Aliyah]] and [[Halward-Priest-of-Selune|Halward]].  
+We head to the temple to meet [[Lady-Aliyah|Lady Aliyah]] and [[Halword-Priest-of-Selune|Halward]].  
 LA asked [[Kari]] about the assassins, [[Kari]] was worried they were after her. Note: One of the assassins escaped from the party's pursuit.  
 The message LA received from [[Prince Jasper]] requested her aid, Orcs are invading Krahan but the army of krahan is protecting the interior. PJ is building a small force from various places in the area to help defend Krahan.  
 LA will be heading to Mayhearth to join Prince Jasper.  
@@ -47,7 +47,7 @@ LA will be heading to Mayhearth to join Prince Jasper.
 LA ponders about the darkness she seeks, the other threat to the land - what is it? But for now, the Orc threat takes precedent. The Orcs have a fleet, and likely will be landing south between mountains and the sea.
 
 **Lady Aliyah's Mother**  
-LA mentions her mother again, [[Countess Zilyana Thenan]], an elf, a polictician. She may help us but LA advsies we shouldn't trust her implicitly.
+LA mentions her mother again, [[Countess Zilyana Thenan]], an elf, a politician. She may help us but LA advises we shouldn't trust her implicitly.
 
 **The captured Orc**  
 We can speak to the captured orc if we wish, he has given LA nothing.

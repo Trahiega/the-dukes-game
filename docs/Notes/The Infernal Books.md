@@ -6,7 +6,7 @@ aliases: [infernal book]
 ## The First Book
 We found a magically locked chest at the camp of gnolls that seem to have attacked the troupe of House Galawin on the road. Inside we found a book written in infernal and some gemstones, that seem to be connected to the book.
 
-We showed the book to [[Halward-Priest-of-Selune|Halward]] and [[Lady-Aliyah|Lady Aliyah]] when we returned to Winterfield.
+We showed the book to [[Halword-Priest-of-Selune|Halward]] and [[Lady-Aliyah|Lady Aliyah]] when we returned to Winterfield.
 
 - It is not of this plane
 - It is written in infernal and relates to devil summoning
