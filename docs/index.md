@@ -1,3 +1,7 @@
+---
+tag: "org"
+---
+
 # The Duke's Game Home Page
 
 ### The World
@@ -29,5 +33,5 @@
 [[Session-015|Session 15]]  
 [[Session-016|Session 16 - Trolls on the road, Back to Tyr's Hollow]]  
 [[Session-017|Session 17 - The Duke's Grand Entrance]]
-[[Session 18]]
+[[Session-018]]
 

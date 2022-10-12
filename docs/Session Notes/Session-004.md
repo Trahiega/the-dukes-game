@@ -23,10 +23,10 @@ Second day in Copperhead, Ozmir awakes having had a strange dream in the night. 
 		- A band of silver etched with the phases of the moon.
 		- A suit of armour on fire.
 		- A shield with an angry face, shouting but silent.
-		- A closk with scales of melting ice.
+		- A cloak with scales of melting ice.
 		- A white banner edged in black, stained with blood.
 - Shed went to visit the the Temple of Tymora to ask about the things in Oz's Dream
-	- Something shady going on, people moving boxes into a back room at the temple, claimed they were priests but clearly arent
+	- Something shady going on, people moving boxes into a back room at the temple, claimed they were priests but clearly aren't
 		- Gave the name Fred - 1 of 3 men there
 	- the priest Havarra is covering for them
 		- What is going on here?

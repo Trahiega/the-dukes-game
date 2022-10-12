@@ -79,9 +79,9 @@ In-game day count: Day
 
 ## Loose Ends
 - [ ] Ozmir technically has a crown?
-- [ ] Which gods no longer talk back to Saniel's knowledge?
-- [ ] Are the bad books connected to the dream?
-- [ ] Did Markus take any writings from the forge?
+- [x] Which gods no longer talk back to Saniel's knowledge?
+- [x] Are the bad books connected to the dream?
+- [x] Did Markus take any writings from the forge?
 - [ ] What of the writings taken from the room where we found the crown?
 - [ ] What of Ozmir's new part of the dream?
 	- [ ] Should Ozmir have the crown or are we meant to keep it from him?

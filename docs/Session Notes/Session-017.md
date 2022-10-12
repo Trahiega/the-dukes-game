@@ -13,7 +13,7 @@ Date of session: 2022-09-14
 ## Session Summary
 We entered the Temple of Selûne and caught up with Halward & Marphi, Marphi has a spell to help identify the champion before we head to the last champion's grave to empower the Moonlit Crown.
 
-Later that day, when the moon had risen, we joined Halward & Marphi at the temple to enact the ritual. As Shed handed over the Moonlit Crown a shadowy figure appeared and took it form her.
+Later that day, when the moon had risen, we joined Halward & Marphi at the temple to enact the ritual. As Shed handed over the Moonlit Crown a shadowy figure appeared and took it from her.
 
 The Duke, he calls himself, told us many things, though how much is true is hard to say. Shar revealed herself to us, she has been trapped by him. Marphi has been corrupted by the Duke and she takes Halward's life, we fight against her transformed form of Shadow that the Duke had brought forth.
 
@@ -207,9 +207,9 @@ Misc. note - Saniel is 6ft 1in
 - The shadow beasts disappear as the Duke, Marphi & Ozmir step through the portal 
 
 ## Loose Ends
-- [ ] Retrieve the scroll from Halward that can be used to contact Lady Aliyah
-- [ ] Supplies from town
-	- [ ] particularly healing potions from the Temple
+- [x] Retrieve the scroll from Halward that can be used to contact Lady Aliyah
+- [x] Supplies from town
+	- [x] particularly healing potions from the Temple
 
 ### Foundry
 - [ ] Sort out Ki points & Radiant bolt

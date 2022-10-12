@@ -1,3 +1,6 @@
+---
+tag: "org"
+---
 # Quests & Questions
 ## Next Steps
 - [ ] Return the Moonlit Crown to it's rightful place
@@ -10,7 +13,9 @@
 ### The Dreams
 See: [[The Dreams]]  
 - Who is the figure we see through the eyes of?
+	- We believe this to be the Duke
 - What is the source of the dreams?
+	- When the Duke revealed himself to us, [[Shar]] spoke into our thoughts and claimed she had sent the dream to us.
 
 ### The Infernal Books
 See: [[The Infernal Books]]  

@@ -1,5 +1,6 @@
 ---
 aliases: [Factions]
+tags: "org"
 ---
 # Factions
 [[The-Kingdom-of-Krahan]]  

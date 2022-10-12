@@ -17,7 +17,7 @@ The [[Coded Letter for Quick Rhett]] seems to be from a group called The Grin.
 The two associates could be Vorian and Randall, as they were set to guard the map in [[Quick-Rhett|Rhett]]'s house and both have a tattoo of a red grinning mouth.
 
 ### Known Members
-C.G.
+C.G. - sent the coded letter to Rhett
 
 ### Possible Members
 [[Vorian]]

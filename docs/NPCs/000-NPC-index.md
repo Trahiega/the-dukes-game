@@ -1,5 +1,7 @@
 ---
 aliases: [NPCs]
+tag: "org"
+---
 ---
 # NPCs
 - [[Blinkdogs]]

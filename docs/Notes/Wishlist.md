@@ -1,3 +1,7 @@
+---
+tag: "org"
+---
+
 # Wishlist
 ## Images
 - [ ] Tar Ugruck Banner

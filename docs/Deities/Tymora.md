@@ -10,3 +10,4 @@ Knight of Tymora
 Livery: Blue & White with a white clover
 ![[tymora-06.jpg]]
 ## Known Worshippers
+There is a temple to Tymora in [[Copperhead]]

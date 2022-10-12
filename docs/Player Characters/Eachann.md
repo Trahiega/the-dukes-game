@@ -1,5 +1,5 @@
 ---
-tags: PC 
+tags: "PC" 
 ---
 # Eachann Morganos?
 ```
